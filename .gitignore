@@ -32,7 +32,7 @@ assets
 commands
 composer.*
 config
-controllers
+controllers/SiteController.php
 mail
 models/ContactForm.php
 models/LoginForm.php
@@ -42,7 +42,8 @@ requirements.php
 runtime
 tests
 vender
-views
+views/layouts
+views/site
 web
 yii
 yii.bat
