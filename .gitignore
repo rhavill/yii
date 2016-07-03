@@ -31,7 +31,9 @@ phpunit.phar
 assets
 commands
 composer.*
-config
+config/console.php
+config/db.php
+config/params.php
 controllers/SiteController.php
 mail
 models/ContactForm.php
